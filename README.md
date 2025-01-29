@@ -23,7 +23,7 @@ O **Amigo Secreto** é uma aplicação web interativa que permite aos usuários 
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/DelNeroDados/Projeto-Amigo-Secreto/
    cd amigo-secreto
    ```
 
