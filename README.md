@@ -1,6 +1,6 @@
 # **Projeto Amigo Secreto**
 
-![Amigo Secreto](https://example.com/imagem-do-projeto.jpg)
+![Amigo Secreto](https://github.com/DelNeroDados/Projeto-Amigo-Secreto/blob/main/img/Captura1.png?raw=true)
 
 ## **Descrição do Projeto**
 
@@ -35,26 +35,22 @@ O **Amigo Secreto** é uma aplicação web interativa que permite aos usuários 
 
 ## **Demonstração**
 
-![Demonstração do Projeto](https://example.com/demonstracao-do-projeto.gif)
+![Demonstração do Projeto](https://github.com/DelNeroDados/Projeto-Amigo-Secreto/blob/main/img/Captura3.png?raw=true)
 
 ## **Capturas de Tela**
 
 ### **Tela Inicial**
-![Tela Inicial](https://example.com/tela-inicial.jpg) 
+![Tela Inicial](https://github.com/DelNeroDados/Projeto-Amigo-Secreto/blob/main/img/Captura1.png?raw=true) 
 
 ### **Lista de Amigos**
-![Lista de Amigos](https://example.com/lista-de-amigos.jpg)
+![Lista de Amigos](https://github.com/DelNeroDados/Projeto-Amigo-Secreto/blob/main/img/Captura2.png?raw=true)
 
 ### **Resultado do Sorteio**
-![Resultado do Sorteio](https://example.com/resultado-sorteio.jpg)
+![Resultado do Sorteio](https://github.com/DelNeroDados/Projeto-Amigo-Secreto/blob/main/img/Captura3.png?raw=true)
 
 ## **Contribuições**
 
 Sinta-se à vontade para contribuir com melhorias ou sugestões! Você pode abrir uma issue ou enviar um pull request.
-
-## **Licença**
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
@@ -62,9 +58,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Para mais informações, entre em contato:
 
-- **Nome**: Seu Nome
-- **Email**: seuemail@example.com
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **Nome**: Luiz Carlos
+- **Email**: luiz.nero@unesp.br
+- **LinkedIn**: [Seu LinkedIn](www.linkedin.com/in/luiz-carlos-tannous-del-nero-b44166255)
 
 ---
 
